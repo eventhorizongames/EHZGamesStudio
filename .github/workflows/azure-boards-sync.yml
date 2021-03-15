@@ -14,7 +14,7 @@ jobs:
           ado_token: "${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}"
           github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
           ado_organization: "eventhorizon"
-          ado_project: "EventHorizon Cloud Platform"
+          ado_project: "Event Horizon"
           ado_area_path: "Event Horizon\\Zone Server"
           ado_iteration_path: "Event Horizon"
           ado_wit: "Feature"
